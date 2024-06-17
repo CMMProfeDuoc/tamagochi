@@ -1,4 +1,5 @@
 from funcionesTamagochi import *
+import os
 
 opciones_menu = {
     'crear' : ['crear'],
