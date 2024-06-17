@@ -1,5 +1,7 @@
 from funcionesTamagochi import *
-import os
+
+
+print ('Hola')
 
 opciones_menu = {
     'crear' : ['crear'],
